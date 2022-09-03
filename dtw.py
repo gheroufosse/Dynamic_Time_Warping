@@ -3,7 +3,7 @@ import numpy as np
 import os
 
 # Path to txt files
-path_to_d1 = "/Users/gauthierheroufosse/Documents/Studies/MA 1/Q2/Data mining and decision making/Project 2/Sketch-Data-master/SketchData/"
+path_to_d1 = ""
 
 ########
 # Data #
